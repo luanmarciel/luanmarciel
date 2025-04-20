@@ -9,7 +9,8 @@ Além disso, estou me aprofundando em **Lean, automação de plataformas e plani
 🔹 **Análise de Processos**: Identifico gargalos e proponho melhorias baseadas em dados.  
 🔹 **Suporte a Projetos**: Busco oportunidades para eliminar desperdícios e tornar processos mais ágeis.  
 🔹 **Programação**: Desenvolvo projetos pessoais usando algumas linguagens de programação.   
-🔹 **Exibição de dados**: Busco exibir insights de maneira intuitiva com Power BI.
+🔹 **Exibição de dados**: Busco exibir insights de maneira intuitiva com Power BI.    
+  🔹 **Automação de processos**: Usando ferramentas como Python, RPA e IA busco automatizar processos repetitivos em rotinas administrativas.
 
 ---
 
