@@ -1,4 +1,4 @@
-# Olá! Sou Luan Marciel!👨‍💻
+# Olá! Sou Luan Marciel!👨‍💻 
 🎯 **Apaixonado por tecnologia e inovação!**  
 Atualmente estou estudando sobre análise de dados e otimização de processos. 
 Além disso, estou me aprofundando em **Lean, automação de plataformas e planilhas, análise de processos e melhoria contínua**.
